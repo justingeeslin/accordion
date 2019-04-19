@@ -1,4 +1,4 @@
-var ExpandCollapse = require('../node_modules/expandable/src/index.js');
+var ExpandCollapse = require('expandable/src/index.js');
 
 Accordion = function (opts) {
 	var self = this;
