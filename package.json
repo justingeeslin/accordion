@@ -34,7 +34,7 @@
     "karma-jasmine": "^2.0.1",
     "karma-safari-launcher": "^1.0.0",
     "watchify": "^3.11.1",
-    "webpack": "^4.30.0",
+    "webpack": "^4.41.6",
     "webpack-cli": "^3.3.0"
   },
   "devDependencies": {
